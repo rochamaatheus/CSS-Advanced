@@ -1,9 +1,9 @@
 # Brafé
 
 <div style="display: inline-block">
-  <img style="width: 300px;height:auto;" src="https://i.imgur.com/HNuGZ0O.png">
-  <img style="width: 300px;height:auto;" src="https://i.imgur.com/b6Zm0yQ.png">
-  <img style="width: 300px;height:auto;" src="https://i.imgur.com/kzwgJbM.png">
+  <img style="width: 250px;height:auto;" src="https://i.imgur.com/HNuGZ0O.png">
+  <img style="width: 250px;height:auto;" src="https://i.imgur.com/b6Zm0yQ.png">
+  <img style="width: 250px;height:auto;" src="https://i.imgur.com/kzwgJbM.png">
 </div>
 
 Mesmo WebSite com diferentes ferramentas.
