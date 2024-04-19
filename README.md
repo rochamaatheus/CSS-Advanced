@@ -1,5 +1,11 @@
 # Brafé
 
+<div style="display: inline-block">
+  <img style="width: 320px;height:auto;" src="https://i.imgur.com/HNuGZ0O.png">
+  <img style="width: 320px;height:auto;" src="https://i.imgur.com/b6Zm0yQ.png">
+  <img style="width: 320px;height:auto;" src="https://i.imgur.com/kzwgJbM.png">
+</div>
+
 Mesmo WebSite com diferentes ferramentas.
 
 <div style="display: inline-block"><br>
@@ -38,9 +44,9 @@ Segunda Página:
 - [Brafé 2 - Bootstrap](https://rochamaatheus.github.io/CSS-Advanced/Braf%C3%A92-bootstrap/)
 
 Terceira Página:
-- [Brafé 2 - Puro](https://rochamaatheus.github.io/CSS-Advanced/Braf%C3%A93-puro/)
-- [Brafé 2 - Flexbox](https://rochamaatheus.github.io/CSS-Advanced/Braf%C3%A93-flexbox/)
-- [Brafé 2 - Bootstrap](https://rochamaatheus.github.io/CSS-Advanced/Braf%C3%A93-bootstrap/)
+- [Brafé 3 - Puro](https://rochamaatheus.github.io/CSS-Advanced/Braf%C3%A93-puro/)
+- [Brafé 3 - Flexbox](https://rochamaatheus.github.io/CSS-Advanced/Braf%C3%A93-flexbox/)
+- [Brafé 3 - Bootstrap](https://rochamaatheus.github.io/CSS-Advanced/Braf%C3%A93-bootstrap/)
 
 ## Contato
 
